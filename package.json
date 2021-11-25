@@ -13,6 +13,7 @@
   "author": "Oscar Roman<oscarbaker1230@hotmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@chakra-ui/icons": "^1.1.1",
     "@chakra-ui/react": "^1.6.10",
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
@@ -27,4 +28,3 @@
     "prettier": "^2.4.1"
   }
 }
-
